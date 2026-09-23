@@ -83,9 +83,14 @@ An exploratory data analysis project focused on understanding children's screen-
 
 ### 🤖 Live Facial Emotion Detection Using CNN
 
+**Python • TensorFlow • Keras • OpenCV • NumPy**
+
 Real-time facial emotion detection using a Convolutional Neural Network (CNN), TensorFlow and OpenCV.
 
-**Python • TensorFlow • Keras • OpenCV • NumPy**
+🔹 Seven-class facial emotion classification  
+🔹 CNN-based image classification  
+🔹 Model evaluation and confusion matrix  
+🔹 Real-time webcam emotion detection 
 
 ---
 
